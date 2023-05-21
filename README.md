@@ -21,5 +21,5 @@
   <a href = "mailto:nathaliaolisantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-oliveira-69a666b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/SantOliver92/SantOliver92/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nathsantoliver/nathsantoliver/blob/output/github-contribution-grid-snake.svg)
 </div>
