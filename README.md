@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04a0fb&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04a0fb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nathália+Oliveira;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
-
+   
 <div align="center">
    <a href="https://github.com/nathsantoliver">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathsantoliver&show_icons=true&count_private=true&hide_border=true&title_color=04a0fb&icon_color=04a0fb&text_color=c9d1d9&bg_color=0d1117" alt="Nathália Oliveira github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathsantoliver&layout=compact&hide_border=true&title_color=04a0fb&text_color=00bfbf&bg_color=0d1117"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathsantoliver&show_icons=true&count_private=true&hide_border=true&title_color=04a0fb&icon_color=04a0fb&text_color=c9d1d9&bg_color=00000000" alt="Nathália Oliveira github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathsantoliver&layout=compact&hide_border=true&title_color=04a0fb&text_color=c9d1d9&bg_color=00000000"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -32,7 +32,7 @@
  
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nathsantoliver&custom_title=Gráfico%20de%20Contribuição&hide_border=true&title_color=c9d1d9&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=04a0fb)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nathsantoliver&custom_title=Gráfico%20de%20Contribuição&hide_border=true&title_color=c9d1d9&bg_color=0d1117&color=c9d1d9&line=c9d1d9&point=04a0fb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
  
 <div align="center">
