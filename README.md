@@ -17,12 +17,6 @@
 </div>
  
 <br>
- 
-<div align="center">
- 
-  ![Snake animation](https://github.com/nathsantoliver/nathsantoliver/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 <div align="center">
   <h3>Entre em contato comigo nas redes abaixo!</h3>
