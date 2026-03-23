@@ -23,11 +23,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
 </div>
 
 <br>
