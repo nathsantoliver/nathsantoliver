@@ -5,9 +5,7 @@
 <br>
 
 <div align="center">
-   <a href="https://github.com/nathsantoliver">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathsantoliver&show_icons=true&count_private=true&hide_border=true&hide_title=true&title_color=04a0fb&icon_color=04a0fb&text_color=c9d1d9&bg_color=00000000" alt="Nathalia Oliveira's GitHub Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathsantoliver&layout=compact&hide_border=true&hide_title=true&title_color=04a0fb&text_color=c9d1d9&bg_color=00000000"/>
+    <img src="https://streak-stats.demolab.com?user=nathsantoliver&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br>
